@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-rpg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a2996751efcc3966aff6fe005b210f18789c1d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+136d9810aa50e34fd5e0717b04391b753bac84e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-rpg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-rpg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
