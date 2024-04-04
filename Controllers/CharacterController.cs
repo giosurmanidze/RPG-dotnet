@@ -9,22 +9,20 @@ public class CharacterController : ControllerBase
 {
      private static List<Character> characters = new List<Character> {
         new Character(),
-        new Character{ Name = "giusha" }
+        new Character{Id = 1, Name = "gioooo" }
      };
 
 
     [HttpGet("getAll")]
-    // [Route("getAll")]
     public ActionResult<List<Character>> Get()
     {
         return Ok(characters);
     }
 
-    [HttpGet("getSingle")]
-    // [Route("getSingle")]
-    public ActionResult<Character> GetSingle()
+    [HttpGet("{id}")]
+    public ActionResult<Character> GetSingle(int id)
     {
-        return Ok(characters[0]);
+        return Ok(characters.FirstOrDefault(c => c.Id == id));
     }
 
 }
