@@ -9,4 +9,6 @@ public interface ICharacterService
     Task<ServiceResponse<GetCharacterDto>> GetCharacterById(int id);
     Task<ServiceResponse<List<GetCharacterDto>>> CreateCharacter(AddCharacterDto newCharacer);
 
+    Task<ServiceResponse<GetCharacterDto>> UpdateCharacter(UpdateCharacterDto newCharacter);
+
 }
