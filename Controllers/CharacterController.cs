@@ -31,7 +31,7 @@ public class CharacterController : ControllerBase
     }
 
     [HttpPost]
-    public async Task<ActionResult<ServiceResponse<List<GetCharacterDto>>>> CreateCharacter(Character newCharacter)
+    public async Task<ActionResult<ServiceResponse<List<GetCharacterDto>>>> CreateCharacter(AddCharacterDto newCharacter)
     {
         return Ok(await _characterService.CreateCharacter(newCharacter));
     }

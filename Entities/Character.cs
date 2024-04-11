@@ -1,6 +1,6 @@
 namespace dotnet_rpg.Entities;
 
-public class GetCharacterDtoCharacter
+public class Character
 {
     public int Id { get; set; }
     public string Name { get; set; } = "Spider";

@@ -1,16 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "PDtip03DjZW1nN5zv1Obn97BfN64Xon940X6IxWUJvlNZlpue/+yq/72RGt5//L4dQ1TGhhfz+LrpuNtr1Yr0w==",
+  "dgSpecHash": "oA56CxDQgEtbq6K4fYGSmJB9l2AB0dkF5Rts6p2/t+yFdxd/S7OleHZ/w/B4vCV3Wn7MZKUrLjqUeoFK3C6l8Q==",
   "success": true,
   "projectFilePath": "/home/giorgi/Devs/dotnet-rpg/dotnet-rpg.csproj",
   "expectedPackageFiles": [
+    "/home/giorgi/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/home/giorgi/.nuget/packages/microsoft.aspnetcore.openapi/8.0.3/microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "/home/giorgi/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/giorgi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/giorgi/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/giorgi/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "/home/giorgi/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/home/giorgi/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/home/giorgi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/home/giorgi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/home/giorgi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/home/giorgi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/home/giorgi/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

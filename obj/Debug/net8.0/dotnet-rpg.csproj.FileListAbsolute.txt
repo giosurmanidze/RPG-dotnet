@@ -32,3 +32,4 @@
 /home/giorgi/Devs/dotnet-rpg/obj/Debug/net8.0/dotnet-rpg.pdb
 /home/giorgi/Devs/dotnet-rpg/obj/Debug/net8.0/dotnet-rpg.genruntimeconfig.cache
 /home/giorgi/Devs/dotnet-rpg/obj/Debug/net8.0/ref/dotnet-rpg.dll
+/home/giorgi/Devs/dotnet-rpg/bin/Debug/net8.0/AutoMapper.dll
