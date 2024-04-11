@@ -1,7 +1,10 @@
-namespace dotnet_rpg.Entities;
+using dotnet_rpg.Entities;
 
-public class GetCharacterDtoCharacter
+namespace dotnet_rpg.Dtos.Character;
+
+public class GetCharacterDto
 {
+    
     public int Id { get; set; }
     public string Name { get; set; } = "Spider";
     public int HitPoints { get; set; } = 100;
